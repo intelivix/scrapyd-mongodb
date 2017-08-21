@@ -4,7 +4,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='intelivix-scrapyd-mongodb',
+    name='scrapyd-mongodb',
     version='0.1.0',
     description='Scrapyd Queue Management with MongoDB',
     author='Intelivix',
