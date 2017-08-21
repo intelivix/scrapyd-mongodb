@@ -4,14 +4,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='scrapyd-mongodb',
+    name='intelivix-scrapyd-mongodb',
     version='0.1.0',
     description='Scrapyd Queue Management with MongoDB',
-    author='Tiago Lira',
-    author_email='tiagolira.dev@gmail.com',
+    author='Intelivix',
+    author_email='arthur@intelivix.com',
     license='MIT',
-    url='https://github.com/Tiago-Lira/scrapyd-mongodb',
-    download_url='https://github.com/Tiago-Lira/scrapyd-mongodb/tarball/0.1.0',
+    url='https://github.com/intelivix/scrapyd-mongodb',
+    download_url='https://github.com/intelivix/scrapyd-mongodb/tarball/0.1.0',
     keywords=['scrapy', 'scrapyd', 'mongodb', 'queue',
               'scrapyd-queue', 'scrapyd-backend', 'backend'],
     include_package_data=True,
